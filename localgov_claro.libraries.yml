@@ -1,6 +1,4 @@
-global-styling:
+node-form:
   css:
     theme:
-      style/style.css: {}
-  js:
-    js/script.js: {}
+      css/node-form.css: {}
