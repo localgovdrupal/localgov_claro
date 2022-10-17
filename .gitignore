@@ -1,5 +1,0 @@
-# Ignore all vendors and packages
-node_modules/*
-bower_components/*
-patternlab/vendor
-patternlab/vendor/*
