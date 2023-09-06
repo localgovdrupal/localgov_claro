@@ -6,6 +6,5 @@ This theme just has some minor overrides to Claro that make it work a little bet
 
 This project is currently maintained by: 
 
- - Finn Lewis: https://github.com/finnlewis
  - Maria Young: https://github.com/msayoung
  - Mark Conroy: https://github.com/markconroy
