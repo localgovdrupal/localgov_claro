@@ -1,7 +1,7 @@
 name: "LocalGov Claro"
 description: "Sub-theme of Claro for LGD sites."
 type: theme
-core_version_requirement: ^8.8 || ^9
+core_version_requirement: ^8.8 || ^9 || ^10
 base theme: "claro"
 
 libraries-extend:
